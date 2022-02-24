@@ -4,7 +4,7 @@
 
 + 생년월일 : 000308
 
-+ 개발 경력 (2.5년)
++ [개발 경력 (2.5년)](https://github.com/wooson0308/myportfolio/blob/main/career.md)
   + 웹 프론트 / 백엔드 : 1.2년
   + 게임 개발 : 1.3년  
 
