@@ -23,6 +23,9 @@
 
 웹 프론트 / 백엔드 (1.2년)
 ---  
+![image](https://user-images.githubusercontent.com/53608923/155655945-c29441e7-12d8-42c5-a87d-823947ad0ef1.png)   
+
+
 + **IDE** : SPRING FRAMEWORK (egov)
 + **보유 기술**
   + 상 : JAVA, Jquery, JSP, SPRING, jstl
@@ -45,6 +48,8 @@
 
 게임 개발 (1.3년)
 ---
+![image](https://user-images.githubusercontent.com/53608923/155656211-1c93379b-8a04-478d-bc7d-f53b7a06ddf9.png)    
+
 + **Tools** : Unity3D(Engine), Visual Studio 2017, 2019
 + **업무** : 클라이언트 개발
 + **보유 기술**
