@@ -25,7 +25,7 @@
 + **IDE** : SPRING FRAMEWORK (egov)
 + **보유 기술**
   + ~~상 :~~ (공백기간이 커서 한 단계 낮췄습니다.)
-  + 중 : JAVA, Jquery, JSP, SPRING, jstl, SQLC css
+  + 중 : JAVA, Jquery, JSP, SPRING, jstl, SQL, css
   + 하 : DB
 + **주요 키워드** : SPRING, JAVA, MYSQL, ORACLE, JSP, MVC    
 
