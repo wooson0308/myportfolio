@@ -5,8 +5,8 @@
 + 생년월일 : 000308
 
 + [개발 경력 (2.5년)](https://github.com/wooson0308/myportfolio/blob/main/career.md)
-  + 웹 프론트 / 백엔드 : 1.2년
-  + 게임 개발 : 1.3년  
+  + 웹 프론트 / 백엔드 : 1년 2개월
+  + 게임 개발 : 1년 3개월  
 
 ---
 **※ 상, 중, 하 점수는 2.5년차 주니어 개발자의 주관적 기준입니다.**  
@@ -17,7 +17,7 @@
 
 ---
 
-웹 프론트 / 백엔드 (1.2년)
+웹 프론트 / 백엔드 (1년 2개월)
 ---  
 ![image](https://user-images.githubusercontent.com/53608923/155655945-c29441e7-12d8-42c5-a87d-823947ad0ef1.png)   
 
@@ -42,7 +42,7 @@
 
 . 
 
-게임 개발 (1.3년)
+게임 개발 (1년 3개월)
 ---
 ![image](https://user-images.githubusercontent.com/53608923/155656211-1c93379b-8a04-478d-bc7d-f53b7a06ddf9.png)  
 
