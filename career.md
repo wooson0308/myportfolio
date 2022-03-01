@@ -20,7 +20,7 @@
 
 [Google Play 앱](https://play.google.com/store/apps/details?id=kr.go.seoul.mobileseoulapp&hl=ko&gl=US)  
 
-+ 프로젝트 기간 : 2018.09 ~ 2018.11 (2개월, 현장실습) 
++ 프로젝트 기간 : 2018.10 ~ 2018.11 (2개월, 현장실습) 
 + 프로젝트 형태 : -- / 웹 앱
 + 진행 업무 :
   + 앱 테스트 및 QC 리스트
