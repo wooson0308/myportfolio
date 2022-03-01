@@ -82,6 +82,13 @@
   + 외주업체와 협업 및 소통
   + 원격 지원 (TeamViewer)  
 
+### 노리 RC카 CS 지원
+
+![image](https://user-images.githubusercontent.com/53608923/156140872-f508ccac-3a70-4622-a88c-2592fdb75db7.png)
+
+
+당시에 인력 부족으로 떠맡겨지며, 진행하게 된 업무.  
+노리 RC카를 구매한 고객들의 CS 진행  
 
 ### 얼굴앱 개발 
 
