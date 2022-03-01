@@ -5,9 +5,6 @@
 + 게임 (Unity3D) : 1년 3개월  
 
 # 웹 앱 프론트/백엔드  
-
----
-
 ● Lucido (루키도)
 ---
 ![image](https://user-images.githubusercontent.com/53608923/156116076-4a653bc8-d149-4d33-8d69-942a911b719f.png)  
@@ -54,17 +51,17 @@
   + 개발 업무 진행
   + 프론트 백엔드 개발 및 수정.  
 
----
+.  
+.  
+.  
 
-# 게임 개발 (Unity3D)
 
----
-
+# 게임 개발 (Unity3D)  
 ● Xrisp (크리스피)
 ---
 ![image](https://user-images.githubusercontent.com/53608923/156122594-b2901965-ac35-4106-b8b4-9913a2f5e34e.png)
 
-+ 업무 : 유니티 게임 개발
++ 업무 : 유니티 클라이언트 개발
 + 경력 : 
   + 2020.10 ~ 2021.02 (5개월)  
 
@@ -92,9 +89,28 @@
 + 프로젝트 기간 : -- (2개월)
 + 프로젝트 형태 : 개발
 + 진행 업무 
-  + 비즘 값을 받아와 비즘에 맞는 얼굴 형태 변경.
+  + 안스에서 전달 된 비즘 값을 받아와 얼굴 형태 변경.  
   
-  
+
+● 브이브이알 (VVR)
+---
+![image](https://user-images.githubusercontent.com/53608923/156126829-b7d7735a-3665-49fe-955d-95d68f4c809b.png)
+
++ 업무 : Unity 개발 및 각종 업무
++ 상세 :
+  + 유니티 클라이언트 개발
+  + 업데이트 서버 구축
+  + 시놀로지 서버 관리 
++ 경력 : 2021.03 ~ 2022.02 (11개월)  
+
+### 스포디(SPODY) 프로젝트 
+
+![image](https://user-images.githubusercontent.com/53608923/156131151-04623258-5018-4a85-9b9b-1c63f7e5ef3f.png)  
+
+[SPODY 홍보영상](https://www.youtube.com/watch?v=acCpnyqhmEI)  
+[플레이 영상](https://www.youtube.com/watch?v=DGUB1NpgmEc)  
+
+
 
 
 
